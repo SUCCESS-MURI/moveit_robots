@@ -419,22 +419,22 @@ Visualization Manager:
             Alpha: 1
             Show Axes: false
             Show Trail: false
-          l_gripper_l_finger:
+          left_gripper_l_finger:
             Alpha: 1
             Show Axes: false
             Show Trail: false
             Value: true
-          l_gripper_l_finger_tip:
+          left_gripper_l_finger_tip:
             Alpha: 1
             Show Axes: false
             Show Trail: false
             Value: true
-          l_gripper_r_finger:
+          left_gripper_r_finger:
             Alpha: 1
             Show Axes: false
             Show Trail: false
             Value: true
-          l_gripper_r_finger_tip:
+          left_gripper_r_finger_tip:
             Alpha: 1
             Show Axes: false
             Show Trail: false
@@ -534,22 +534,22 @@ Visualization Manager:
             Show Axes: false
             Show Trail: false
             Value: true
-          r_gripper_l_finger:
+          right_gripper_l_finger:
             Alpha: 1
             Show Axes: false
             Show Trail: false
             Value: true
-          r_gripper_l_finger_tip:
+          right_gripper_l_finger_tip:
             Alpha: 1
             Show Axes: false
             Show Trail: false
             Value: true
-          r_gripper_r_finger:
+          right_gripper_r_finger:
             Alpha: 1
             Show Axes: false
             Show Trail: false
             Value: true
-          r_gripper_r_finger_tip:
+          right_gripper_r_finger_tip:
             Alpha: 1
             Show Axes: false
             Show Trail: false
